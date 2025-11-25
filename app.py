@@ -498,5 +498,8 @@ elif page == "📈 Model Comparison":
 # Footer
 st.markdown("---")
 st.markdown("""
-
+<div style='text-align: center'>
+    <p>🚀 Built for CIS 412 Team Project | Passenger Satisfaction Prediction</p>
+    <p>✨ Machine Learning Application by Team Members ✨</p>
+</div>
 """, unsafe_allow_html=True)
